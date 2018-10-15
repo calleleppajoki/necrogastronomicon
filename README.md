@@ -15,6 +15,6 @@ The scaffolding is pretty light. You'll have to build the image from the Dockerf
 ### ------------------------------
 
 TODO:
-[ ] Styling
-[ ] Fonts
-[ ] Text and copy
+* [ ] Styling
+* [ ] Fonts
+* [ ] Text and copy
