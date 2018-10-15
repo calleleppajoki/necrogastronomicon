@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Post on Necrogastronomicon</title>
-    <link>file:///Users/calle/Documents/necrogastronomicon/docs/post/</link>
+    <link>https://calleleppajoki.github.io/post/</link>
     <description>Recent content in Post on Necrogastronomicon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 15 Oct 2018 18:29:29 +0000</lastBuildDate>
     
-	<atom:link href="file:///Users/calle/Documents/necrogastronomicon/docs/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://calleleppajoki.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>file:///Users/calle/Documents/necrogastronomicon/docs/post/my-first-post/</link>
+      <link>https://calleleppajoki.github.io/post/my-first-post/</link>
       <pubDate>Mon, 15 Oct 2018 18:15:39 +0000</pubDate>
       
-      <guid>file:///Users/calle/Documents/necrogastronomicon/docs/post/my-first-post/</guid>
+      <guid>https://calleleppajoki.github.io/post/my-first-post/</guid>
       <description>My First Post!</description>
     </item>
     
