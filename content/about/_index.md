@@ -4,4 +4,8 @@ date: 2018-10-15T18:30:51Z
 draft: false
 ---
 
-The Hunchback of Notre-Dame (French: Notre-Dame de Paris) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+Cooking is a sort of magic, and recipies a type of spell. The Necrogastronomicon is a cooking grimoire in the works.
+
+We are working hard on unearthing something we hope to be both magical and special, the most important question on the top of our heads being:
+
+*Wouldst thou like to live deliciously?*
