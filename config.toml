@@ -1,4 +1,4 @@
-baseURL = "file:///Users/calle/Documents/necrogastronomicon/docs/"
+baseURL = "https://calleleppajoki.github.io/"
 languageCode = "en-us"
 title = "Necrogastronomicon"
 publishDir = "docs"
