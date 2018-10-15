@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>file:///Users/calle/Documents/necrogastronomicon/docs/about/</loc>
+    <lastmod>2018-10-15T18:30:51+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>file:///Users/calle/Documents/necrogastronomicon/docs/post/</loc>
+    <lastmod>2018-10-15T18:29:29+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>file:///Users/calle/Documents/necrogastronomicon/docs/</loc>
+    <lastmod>2018-10-15T18:26:33+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>file:///Users/calle/Documents/necrogastronomicon/docs/post/my-first-post/</loc>
+    <lastmod>2018-10-15T18:15:39+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>file:///Users/calle/Documents/necrogastronomicon/docs/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>file:///Users/calle/Documents/necrogastronomicon/docs/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
