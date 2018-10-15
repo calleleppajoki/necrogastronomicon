@@ -3,41 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://calleleppajoki.github.io/about/</loc>
+    <loc>https://calleleppajoki.github.io/necrogastronomicon/about/</loc>
     <lastmod>2018-10-15T18:30:51+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://calleleppajoki.github.io/post/</loc>
+    <loc>https://calleleppajoki.github.io/necrogastronomicon/post/</loc>
     <lastmod>2018-10-15T18:29:29+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://calleleppajoki.github.io/</loc>
+    <loc>https://calleleppajoki.github.io/necrogastronomicon/</loc>
     <lastmod>2018-10-15T18:26:33+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://calleleppajoki.github.io/post/my-first-post/</loc>
+    <loc>https://calleleppajoki.github.io/necrogastronomicon/post/my-first-post/</loc>
     <lastmod>2018-10-15T18:15:39+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://calleleppajoki.github.io/categories/</loc>
+    <loc>https://calleleppajoki.github.io/necrogastronomicon/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://calleleppajoki.github.io/tags/</loc>
+    <loc>https://calleleppajoki.github.io/necrogastronomicon/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
